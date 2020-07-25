@@ -4,7 +4,7 @@
     <title>用户增长案例分析</title>
     <url>/2019/09/%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/</url>
     <content><![CDATA[<p>平时整理的一些用户增长相关案例，不定期更新。</p>
-<p><a href="https://www.yuque.com/docs/share/5d13480b-b521-41ef-b8e4-752f02197f8b?#" target="_blank" rel="noopener">点此查看&gt;&gt;</a></p>
+<p><a href="https://www.yuque.com/docs/share/5d13480b-b521-41ef-b8e4-752f02197f8b#" target="_blank" rel="noopener">点此查看&gt;&gt;</a></p>
 ]]></content>
       <categories>
         <category>课外作业</category>
@@ -483,7 +483,7 @@
 </li>
 </ol>
 </li>
-<li><p><strong>用户需求</strong><br> Keep主要满足了用户以下需求：</p>
+<li><p><strong>用户需求</strong><br>    Keep主要满足了用户以下需求：</p>
 <ol>
 <li>工作太忙没空去健身馆，但又想健身。</li>
 <li>健身房没有私教指导、私教太贵，不知道如何安全正确地健身。</li>
@@ -681,22 +681,15 @@
 <hr>
 <p>方法二：</p>
 <ol>
-<li><p>在计算机上打开 Chrome。</p>
-</li>
-<li><p>依次点击右上角的“更多”图标 &gt; <strong>设置</strong> 。</p>
-</li>
-<li><p>点击底部的<strong>高级</strong>。</p>
-</li>
-<li><p>在“隐私设置和安全性”下方，点击<strong>内容设置</strong> 。</p>
-</li>
-<li><p>点击 <strong>Cookie</strong>，再点击 <strong>查看所有Cookie 和网站数据</strong>。</p>
-</li>
-<li><p>在“所有 Cookie 和网站数据”部分，搜索相应网站的名称。</p>
-</li>
-<li><p>点击该网站右侧的“删除”图标。</p>
-<p> <strong>注意：搜索的网站输入【域名】即可。</strong></p>
-</li>
+<li>在计算机上打开 Chrome。</li>
+<li>依次点击右上角的“更多”图标 &gt; <strong>设置</strong> 。</li>
+<li>点击底部的<strong>高级</strong>。</li>
+<li>在“隐私设置和安全性”下方，点击<strong>内容设置</strong> 。</li>
+<li>点击 <strong>Cookie</strong>，再点击 <strong>查看所有Cookie 和网站数据</strong>。</li>
+<li>在“所有 Cookie 和网站数据”部分，搜索相应网站的名称。</li>
+<li>点击该网站右侧的“删除”图标。</li>
 </ol>
+<p>     <strong>注意：搜索的网站输入【域名】即可。</strong></p>
 <img src="/2018/05/%E5%8D%95%E7%8B%AC%E6%B8%85%E9%99%A4%E6%9F%90%E7%BD%91%E7%AB%99%E7%9A%84cookie/3.png" class="" width="450" title="方法二">
 ]]></content>
       <categories>
